@@ -31,7 +31,7 @@ proit margin.
  shall be increased by providing services to the customers 
  instead of providing services to high sales of product.
 
- -over all tablrts generat higher profit ,
+ -over all tablets generat higher profit ,
  but the loop hole is where the high sales of 
  products are not providing high profit where compared to 
  low value of tablets 
