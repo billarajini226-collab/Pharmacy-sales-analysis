@@ -156,8 +156,8 @@ A segment of small/intermediary customers are purchasing in low volumes but cons
 ---
 
 ## 📸 Dashboard Preview
+<img width="1536" height="865" alt="image" src="https://github.com/user-attachments/assets/b375a17b-7a88-4960-b058-5eccd26403b6" />
 
-![Pharmacy Sales Power BI Dashboard](https://private-user-images.githubusercontent.com/260877520/551616615-87b4125b-96e6-4956-88b2-dbe9e65f7722.png)
 
 The Power BI dashboard includes:
 - *KPI Cards* — Total Sales, Profit, Margin %, vs Target
@@ -168,23 +168,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 How to Use
 
-*Requirements:* Microsoft Excel 2016+ | Power BI Desktop (free)
-
-bash
-# 1. Clone this repository
-git clone https://github.com/billarajini226-collab/Pharmacy-sales-analysis.git
-
-# 2. Open the dataset
-→ Open Pharmacy_Sales_Data.xlsx in Excel
-
-# 3. Open the dashboard
-→ Open Pharmacy_Dashboard.pbix in Power BI Desktop
-
-# 4. Explore
-→ Use slicers to filter by product category, company, or time period
-→ Hover over charts for drill-down tooltips
 
 
 ## 🧠 Skills Demonstrated
