@@ -74,18 +74,24 @@ Raw Sales Data (Excel)
 └─────────────────────┘
         │
         ▼
+
+
 ┌─────────────────────┐
 │   DAX MEASURES      │  → Total Sales, Total Profit,
 │   (Power BI)        │    Profit Margin %, Target vs Actual
 └─────────────────────┘
         │
         ▼
+
+        
 ┌─────────────────────┐
 │  DASHBOARD &        │  → KPI cards, category breakdown,
 │  VISUALIZATION      │    company analysis, trend charts
 └─────────────────────┘
         │
         ▼
+
+        
    Business Insights & Recommendations
 
 
